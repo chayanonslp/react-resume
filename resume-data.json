@@ -1,0 +1,70 @@
+{
+  "urlImg": "../public/Img/profile.webp",
+  "name": "นาย ชญานนท์ จงสุข",
+  "role": "Fullstack Developer",
+"about": "สวัสดีครับ ผมชื่อ ชญานนท์ จงสุข มีประสบการณ์ในการพัฒนาเว็บแอปพลิเคชัน และทำงานร่วมกับทีมในการสร้างผลิตภัณฑ์คุณภาพ ผมสนใจเทคโนโลยีใหม่ ๆ อยู่เสมอ และมุ่งมั่นที่จะพัฒนาทักษะของตนเองให้ทันต่อการเปลี่ยนแปลงในสายงาน",
+  "contact": {
+    "email": "chayanon.slp@gmail.com",
+    "phone": "064-458-0471"
+  },
+  "skills": {
+    "Frontend": [
+      "HTML",
+      "JavaScript",
+      "PrimeFaces",
+      "React",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "Backend": [
+      "Node.js",
+      "Java"
+    ],
+    "Database": [
+      "MySQL",
+      "MySQL Server",
+      "PostgreSQL"
+    ]
+  },
+  "DevelopmentTools": [
+    "Visual Studio Code", 
+    "NetBeans",
+    "Postman",
+    "Git",
+    "GitHub",
+    "TortoiseSVN",
+    "HeidiSQL",
+    "Navicat for MySQL"
+  ],
+  "experience": [
+    {
+      "company": "Sun Gateway",
+      "role": "Web Developer",
+      "year": "ระยะเวลา: 2 ปี 4 เดือน (2566 - 2568)",
+      "details": "พัฒนาและบำรุงรักษาเว็บแอปพลิเคชัน โดยใช้เทคโนโลยี HTML, CSS, JavaScript, PrimeFaces, Java และ SQL Server"
+    },
+    {
+      "company": "G-Able Group",
+      "role": "นักศึกษาฝึกงาน",
+      "year": "ระยะเวลา: พฤศจิกายน 2564 - กุมภาพันธ์ 2565",
+      "details": "เรียนรู้และพัฒนาทักษะการสร้างเว็บแอปพลิเคชันด้วย React, Node.js, MySQL และ Java Spring Boot ผ่านโครงการภายในองค์กร พร้อมประสบการณ์การทำงานร่วมกับทีมพัฒนา"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Web Application for Job Management",
+      "link": "https://github.com/so-dev/monitor",
+      "desc": "แอปพลิเคชันสำหรับจัดการงานและโปรเจกต์อย่างมีประสิทธิภาพ โดยใช้ Java, PrimeFaces และ SQL Server"
+    },
+    {
+      "name": "ระบบ CRM",
+      "link": "https://github.com/so-dev/monitor",
+      "desc": "ระบบบริหารความสัมพันธ์ลูกค้า (CRM) พัฒนาโดยใช้ PrimeFaces, Java และฐานข้อมูล MySQL"
+    },
+    {
+      "name": "Resume Website Using React",
+      "link": "https://github.com/so-dev/monitor",
+      "desc": "เว็บไซต์เรซูเม่ส่วนตัว แสดงทักษะและโปรเจกต์ ใช้ React และ Tailwind CSS"
+    }
+  ]
+}
