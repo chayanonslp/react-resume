@@ -23,3 +23,5 @@ yarn-error.log*
 
 # Optional: Local IDE files
 .idea/
+
+.dist/
