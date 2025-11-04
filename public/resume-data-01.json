@@ -1,0 +1,82 @@
+{
+  "name": "ชญานนท์ จงสุข",
+  "contact": {
+    "phone": "064‑458‑0471",
+    "email": "chayanon.slp@gmail.com"
+  },
+  "education": {
+    "degree": "วิทยาศาสตรบัณฑิต สาขาเทคโนโลยีสารสนเทศ",
+    "institution": "มหาวิทยาลัยราชภัฏมหาสารคาม",
+    "period": "2561‑2565",
+    "gpa": 3.56,
+    "relevantCourses": [
+      "การพัฒนาเว็บ",
+      "การจัดการฐานข้อมูล"
+    ]
+  },
+  "experience": [
+    {
+      "position": "ฝึกงานสหกิจศึกษา - G‑Able Group",
+      "period": "พฤศจิกายน 2564 ‑ กุมภาพันธ์ 2565",
+      "description": "นักศึกษาฝึกงาน (นักพัฒนาซอฟต์แวร์)"
+    },
+    {
+      "position": "Web Developer - Sun Gateway",
+      "period": "2 ปี 4 เดือน (2566 ‑ 2568)",
+      "description": "พัฒนาและบำรุงรักษาเว็บแอปพลิเคชัน โดยใช้เทคโนโลยี HTML, CSS, JavaScript, Java และ SQL Server"
+    },
+    {
+      "position": "React Resume Project - Personal",
+      "period": "31 ตุลาคม 2568",
+      "description": "สร้างเว็บเรซูเม่ด้วย React + Vite + Tailwind พร้อม JSON data และ deploy setup"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "PrimeFaces",
+      "React",
+      "TailwindCSS",
+      "Vite"
+    ],
+    "backend": [
+      "Node.js",
+      "Java"
+    ],
+    "database": [
+      "MySQL",
+      "SQL Server"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Web Application",
+      "description": "แอปพลิเคชันสำหรับจัดการงานและโปรเจกต์อย่างมีประสิทธิภาพ โดยใช้ Java, PrimeFaces และ SQL Server"
+    },
+    {
+      "name": "CRM",
+      "description": "ระบบบริหารความสัมพันธ์ลูกค้า (CRM) พัฒนาโดยใช้ PrimeFaces, Java และฐานข้อมูล MySQL"
+    },
+    {
+      "name": "Resume Website",
+      "description": "เว็บไซต์เรซูเม่ส่วนตัว แสดงทักษะและโปรเจกต์ ใช้ HTML/CSS/JavaScript"
+    },
+    {
+      "name": "React Resume Project",
+      "description": "สร้างเว็บเรซูเม่แบบ dynamic ด้วย React + Tailwind + Vite โดยเชื่อมต่อข้อมูลจาก JSON และเตรียม deploy"
+    }
+  ],
+  "developmentTools": [
+    "Visual Studio Code",
+    "NetBeans",
+    "Postman",
+    "Git",
+    "TortoiseSVN",
+    "HeidiSQL",
+    "Navicat"
+  ],
+  "about": "สวัสดีครับ ผมชื่อ ชญานนท์ จงสุข มีประสบการณ์ในการพัฒนาเว็บแอปพลิเคชัน พร้อมทั้งทำงานร่วมกับทีมในการสร้างผลิตภัณฑ์ที่มีคุณภาพ ผมสนใจเทคโนโลยีใหม่ ๆ อยู่เสมอ และมุ่งมั่นที่จะพัฒนาทักษะของตนเองให้ทันต่อการเปลี่ยนแปลงในสายงานไอที"
+}
