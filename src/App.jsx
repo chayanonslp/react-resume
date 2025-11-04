@@ -12,7 +12,8 @@ function App() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("/resume-data.json")
+    // fetch("/resume-data.json") // ใช้เมื่อ base เป็น '/'
+    fetch(`${import.meta.env.BASE_URL}resume-data.json`) // ใช้เมื่อ base เปลี่ยนเป็น '/ชื่อ-repo/'
       .then((res) => res.json())
       .then(setData); 
   }, []);
